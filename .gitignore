@@ -1,0 +1,205 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+
+# Model weights
+*.pt
+*.pth
+*.weights
+*.h5
+*.onnx
+*.torchscript
+
+# Large data files
+data/IDD_Detection/
+data/*.jpg
+data/*.jpeg
+data/*.png
+data/*.mp4
+data/*.avi
+data/*.tar.gz
+data/*.zip
+
+# Outputs (generated at runtime)
+outputs/
+
+# Detected results
+detected_objects.csv
+detected_objects.json
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Compressed archives
+*.tar.gz
+*.zip
+*.rar
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+
+# Model weights
+*.pt
+*.pth
+*.weights
+*.h5
+*.onnx
+*.torchscript
+
+# Large data files
+data/IDD_Detection/
+data/*.jpg
+data/*.jpeg
+data/*.png
+data/*.mp4
+data/*.avi
+data/*.tar.gz
+data/*.zip
+
+# Outputs (generated at runtime)
+outputs/
+
+# Detected results
+detected_objects.csv
+detected_objects.json
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Compressed archives
+*.tar.gz
+*.zip
+*.rar
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+
+# Model weights
+*.pt
+*.pth
+*.weights
+*.h5
+*.onnx
+*.torchscript
+
+# Large data files
+data/IDD_Detection/
+data/*.jpg
+data/*.jpeg
+data/*.png
+data/*.mp4
+data/*.avi
+data/*.tar.gz
+data/*.zip
+
+# Outputs (generated at runtime)
+outputs/
+
+# Detected results
+detected_objects.csv
+detected_objects.json
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Compressed archives
+*.tar.gz
+*.zip
+*.rar
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
