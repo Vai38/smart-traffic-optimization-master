@@ -128,7 +128,11 @@ See [`requirements.txt`](requirements.txt) for the full dependency list. Key lib
 
 ## Author
 
-**Baishnavi Dash**
+**## Maintainer
+
+Baishnavi (Vai38)**
+
+Project maintained by Vai38.
 
 ---
 
